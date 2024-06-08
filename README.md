@@ -1,4 +1,4 @@
-# Dudo game ——A Simple Game of Comparison
+# Dudu game ——A Simple Game of Comparison
 Originated from a mini-game created by our group in the 2024 Human-Computer Interaction course.
 
 The effect is shown in the following image:
